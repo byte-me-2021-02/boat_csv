@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import JsonCSV from 'vue-json-csv'
 
 Vue.config.productionTip = false
 
